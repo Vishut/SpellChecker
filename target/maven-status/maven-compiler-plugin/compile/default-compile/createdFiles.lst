@@ -1,0 +1,8 @@
+com/xlabs/config/Application.class
+com/xlabs/response/SpellCheckResponse.class
+com/xlabs/controller/SpellCheckController.class
+com/xlabs/config/InitLoader.class
+com/xlabs/service/SpellCheckServiceImpl.class
+com/xlabs/service/SpellCheckService.class
+com/xlabs/request/SpellCheckRequest.class
+com/xlabs/util/ApplicationUtil.class
